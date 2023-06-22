@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @RobertWyrwas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi, I’m Robert Wyrwas, an aspiring entry-level software tester.
 
-<!---
-RobertWyrwas/RobertWyrwas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I am willing to undertake an internship, work in any form of temporary employment, or any testing project.
+
+  https://www.linkedin.com/in/robert-wyrwas-57106b234/
+  📫 rwyrwas90@gmail.com
+
